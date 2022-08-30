@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gromart">GroMart</string>
+    <string name="shop_to_your_heart_s_content">Shop to your heart’s content</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="password">Password:</string>
+    <string name="re_enter_password">Re-Enter Password:</string>
+    <string name="create_account">Create Account</string>
+    <string name="have_an_account">Have an Account?</string>
+    <string name="sign_in">Sign In</string>
+</resources>
